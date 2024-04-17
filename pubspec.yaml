@@ -1,7 +1,7 @@
 name: facebook_appbar_view
-description: "Description here"
+description: "Facebook Appbar View"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/facebook_appbar_view
 
 version: 1.0.0+1
 
